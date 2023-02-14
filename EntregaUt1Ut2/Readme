@@ -1,0 +1,4 @@
+El ejercicio genera un raf de 4000 bytes, capaz de almacenar 100 artropodos.
+En el ejercicio tienes la opción de insertar un artropodo, sin ser contemplada la opción de solapamiento, buscar un artropodo por su código de referencia y mostrar una lista de todos los artropodos.
+Los datos a introducir por cada artropodo son el nombre, código de referencia y peso.
+
